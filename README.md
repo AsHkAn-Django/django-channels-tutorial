@@ -5,20 +5,6 @@ This is part of my journey as I learn and improve my skills.
 
 ## About the Project
 
-myproject/
-├── chat/
-│   ├── templates/
-│   │   └── chat/echo.html
-│   ├── consumers.py
-│   ├── routing.py
-│   ├── views.py
-│   └── urls.py
-├── myproject/
-│   ├── asgi.py
-│   ├── settings.py
-│   └── urls.py
-└── manage.py
-
 This project is built using Django and includes basic frontend styling with HTML, CSS, Bootstrap, and some JavaScript.  
 I usually focus on the backend side of things and try to keep things simple and clean.  
 Each project I make is a way for me to learn something new or reinforce what I already know.
